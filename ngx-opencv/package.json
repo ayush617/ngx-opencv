@@ -1,0 +1,66 @@
+{
+  "_from": "ngx-opencv@>=1.0.5",
+  "_id": "ngx-opencv@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Gn0cNBGdb3I6FnZvUXtN9PHQ0dLZT4HCO1MZ9tIuCKqjrgRa60b65esNbE8U37OfEzu1BfTaelSvO8lfsgsvvg==",
+  "_location": "/ngx-opencv",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ngx-opencv@>=1.0.5",
+    "name": "ngx-opencv",
+    "escapedName": "ngx-opencv",
+    "rawSpec": ">=1.0.5",
+    "saveSpec": null,
+    "fetchSpec": ">=1.0.5"
+  },
+  "_requiredBy": [
+    "/ngx-document-scanner"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-opencv/-/ngx-opencv-2.0.1.tgz",
+  "_shasum": "aa86d51b1886b233e2947b92bf9586935ab87254",
+  "_spec": "ngx-opencv@>=1.0.5",
+  "_where": "/home/pristyncare/work/frontend/new_versions/insurance-dashboard/node_modules/ngx-document-scanner",
+  "author": {
+    "name": "RoiP"
+  },
+  "bugs": {
+    "url": "https://github.com/roiperlman/ngx-document-scanner/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "deprecated": false,
+  "description": "Angular service for implementing the OpenCV library in angular based applications",
+  "es2015": "fesm2015/ngx-opencv.js",
+  "esm2015": "esm2015/ngx-opencv.js",
+  "esm5": "esm5/ngx-opencv.js",
+  "fesm2015": "fesm2015/ngx-opencv.js",
+  "fesm5": "fesm5/ngx-opencv.js",
+  "homepage": "https://github.com/roiperlman/ngx-document-scanner#readme",
+  "keywords": [
+    "opencv",
+    "camscanner",
+    "scanner",
+    "image processing",
+    "document",
+    "angular",
+    "OpenCVJS",
+    "image manipulation",
+    "crop"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-opencv.umd.js",
+  "metadata": "ngx-opencv.metadata.json",
+  "module": "fesm5/ngx-opencv.js",
+  "name": "ngx-opencv",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roiperlman/ngx-document-scanner.git"
+  },
+  "sideEffects": false,
+  "typings": "ngx-opencv.d.ts",
+  "version": "2.0.1"
+}
